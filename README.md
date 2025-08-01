@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Ronnie
-👀 **Finance & Analytics Professional** with 13+ years of experience in credit risk, digital transformation, and data analytics.
+:briefcase: **Finance & Analytics Professional** with 13+ years of experience in credit risk, digital transformation, and data analytics.
 
 🌱 Currently upskilling in Python, SQL, Tableau, and Power BI. Passionate about using data to drive strategic decisions and improve processes.
   
