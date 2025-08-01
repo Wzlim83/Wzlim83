@@ -6,13 +6,22 @@
 ---
 
 ## 🚀 Capstone Projects (🛠️ Updating in progress)
-  
+
+### 🏠 [HDB Resale Trend Analysis](https://github.com/Wzlim83/hdb-resale-trend-analysis)  
+Explored resale flat transactions in Singapore from 2017 to 2020 to uncover pricing trends and influencing factors such as lease duration and location.
+
+- 📊 **Tools**: Python (Pandas, Matplotlib), Folium  
+- 🌍 **Focus**: Lease impact on price, floor area correlation, town-level comparison, and geospatial mapping  
+- 📌 **Insights**: Price peaks around MOP (5 years); larger floor area yields higher resale value; Woodlands offers lower-price options
+
+---
+
 ### 🏅 [ASEAN vs Top Countries – Olympic Analysis] (https://github.com/Wzlim83/Olympic-Dashboard)
 Analysed 120 years of Olympic data using Python and Power BI to identify performance gaps between ASEAN and top-performing nations.
 
 - 📊 Tools: Python, Power BI, Kaggle dataset
 - 🔍 Key insights on medal distribution, athlete traits, and event participation
-  
+
 ## 🛠️ Skills & Tools
 
 - **Languages**: Python, SQL, DAX, Power Query
