@@ -5,7 +5,7 @@
   
 ---
 
-## 🚀 Featured Projects (🛠️ Updating in progess)
+## 🚀 Featured Projects (🛠️ Updating in progress)
   
 ### 🏅 [ASEAN vs Top Countries – Olympic Analysis] (https://github.com/Wzlim83/Olympic-Dashboard)
 Analysed 120 years of Olympic data using Python and Power BI to identify performance gaps between ASEAN and top-performing nations.
