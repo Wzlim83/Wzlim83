@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Ronnie
 👀 **Finance & Analytics Professional** with 13+ years of experience in credit risk, digital transformation, and data analytics.
+
 🌱 Currently upskilling in Python, SQL, Tableau, and Power BI. Passionate about using data to drive strategic decisions and improve processes
   
 ---
@@ -25,7 +26,7 @@ Analyzed 120 years of Olympic data using Python and Power BI to identify perform
 
 ---
 
-_Always looking for opportunity for growth_ 🚀
+_Always looking for opportunity to learn and grow_ 🚀
 
 <!---
 Wzlim83/Wzlim83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
