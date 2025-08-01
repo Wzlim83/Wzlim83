@@ -8,7 +8,7 @@
 ## 🚀 Featured Projects
   
 ### 🏅 [ASEAN vs Top Countries – Olympic Analysis]
-Analyzed 120 years of Olympic data using Python and Power BI to identify performance gaps between ASEAN and top-performing nations.
+Analysed 120 years of Olympic data using Python and Power BI to identify performance gaps between ASEAN and top-performing nations.
 
 - 📊 Tools: Python, Power BI, Kaggle dataset
 - 🔍 Key insights on medal distribution, athlete traits, and event participation
