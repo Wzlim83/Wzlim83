@@ -16,11 +16,11 @@ Explored resale flat transactions in Singapore from 2017 to 2020 to uncover pric
 
 ---
 
-### 🏅 [ASEAN vs Top Countries – Olympic Analysis] (https://github.com/Wzlim83/Olympic-Dashboard)
-Analysed 120 years of Olympic data using Python and Power BI to identify performance gaps between ASEAN and top-performing nations.
+### 🏅 [ASEAN vs Top Countries – Olympic Analysis](https://github.com/Wzlim83/Olympic-Dashboard)  
+Analyzed 120 years of Olympic data to compare ASEAN countries' performance with top-performing nations using Python and Power BI.
 
-- 📊 Tools: Python, Power BI, Kaggle dataset
-- 🔍 Key insights on medal distribution, athlete traits, and event participation
+- 📊 **Tools**: Python, Power BI, Kaggle dataset  
+- 🔍 **Focus**: Medal distribution, athlete demographics, and event participation patterns
 
 ## 🛠️ Skills & Tools
 
