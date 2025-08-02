@@ -1,43 +1,55 @@
 # 👋 Hi, I’m Ronnie
-:briefcase: **Finance & Analytics Professional** with 13+ years of experience in credit risk, digital transformation, and data analytics.
 
-🌱 Currently upskilling in Python, SQL, Tableau, and Power BI. Passionate about using data to drive strategic decisions and improve processes.
-  
+💼 **Finance & Analytics Professional** with 13+ years of experience in **credit risk**, **digital transformation**, and **data analytics** across the public and financial sectors.
+
+🌱 Currently upskilling in **Python**, **SQL**, **Tableau**, and **Power BI**. Passionate about using data to drive strategic decisions, streamline operations, and uncover actionable insights.
+
 ---
 
-## 🚀 Capstone Projects (🛠️ Updating in progress)
+## 🚀 Capstone Projects
 
 ### 🏠 [HDB Resale Trend Analysis](https://github.com/Wzlim83/hdb-resale-trend-analysis)  
-Explored resale flat transactions in Singapore from 2017 to 2020 to uncover pricing trends and influencing factors such as lease duration and location.
+Explored resale flat transactions in Singapore (2017–2020) to uncover pricing trends and influencing factors such as lease duration and location.
 
 - 📊 **Tools**: Python (Pandas, Matplotlib), Folium  
 - 🌍 **Focus**: Lease impact on price, floor area correlation, town-level comparison, and geospatial mapping  
-- 📌 **Insights**: Price peaks around MOP (5 years); larger floor area yields higher resale value; Woodlands offers lower-price options
+- 📌 **Insights**: Price peaks around MOP (5 years); larger floor area yields higher resale value; Woodlands offers affordable options
 
 ---
 
-### 🏅 [ASEAN vs Top Countries – Olympic Analysis](https://github.com/Wzlim83/Olympic-Dashboard)  
-Analyzed 120 years of Olympic data to compare ASEAN countries' performance with top-performing nations using Python and Power BI.
+### 💳 [Card Spending Analysis](https://github.com/Wzlim83/card-spending-analysis)  
+Analysed anonymized card transaction data (2018–2020) to extract consumer insights and support marketing strategy.
+
+- 🛠️ **Tools**: SQL (DBeaver), Tableau  
+- 🔍 **Focus**: Spending behavior by mall location, expense type, and time period  
+- 📌 **Insights**: Heartland malls had higher volume than central malls; food and groceries were top spend categories; instalment transactions had the highest total value
+
+---
+
+### 🏅 [Olympic Analysis – ASEAN vs Top Countries](https://github.com/Wzlim83/Olympic-Dashboard)  
+Analysed 120 years of Olympic data to compare ASEAN nations' performance with top-performing countries using Python and Power BI.
 
 - 📊 **Tools**: Python, Power BI, Kaggle dataset  
-- 🔍 **Focus**: Medal distribution, athlete demographics, and event participation patterns
+- 🔍 **Focus**: Medal distribution, athlete demographics, and event participation trends  
+- 📌 **Insights**: Identified ASEAN medal gaps, areas of underrepresentation, and potential areas for sports investment
+
+---
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, SQL, DAX, Power Query
-- **Data Viz**: Power BI, Tableau
-- **Others**: Excel (Advanced), Git, SharePoint, FormSG
-  
----
-
-## 📫 How to reach me - ronnielim@hotmail.com
-## ⚡ Fun fact: Tea lover and a foodie 
+- **Languages**: Python, SQL, DAX, Power Query  
+- **Data Visualisation**: Power BI, Tableau  
+- **Other Tools**: Excel (Advanced), Git, SharePoint, FormSG  
 
 ---
 
-_Always looking for opportunity to learn and grow_ 🚀
+## 📫 Let’s connect!
 
-<!---
-Wzlim83/Wzlim83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📧 Email: ronnielim@hotmail.com  
+- 💼 [LinkedIn](www.linkedin.com/in/ronnie-l-359b0227) 
+
+⚡ **Fun fact**: Tea lover and foodie always exploring new flavors 😋
+
+---
+
+_Always learning. Always improving._ 🚀
