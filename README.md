@@ -18,7 +18,7 @@ Explored resale flat transactions in Singapore (2017–2020) to uncover pricing 
 ---
 
 ### 💳 [Card Spending Analysis](https://github.com/Wzlim83/card-spending-analysis)  
-Analysed anonymized card transaction data (2018–2020) to extract consumer insights and support marketing strategy.
+Analysed anonymizsd card transaction data (2018–2020) to extract consumer insights and support marketing strategy.
 
 - 🛠️ **Tools**: SQL (DBeaver), Tableau  
 - 🔍 **Focus**: Spending behavior by mall location, expense type, and time period  
