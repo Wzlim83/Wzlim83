@@ -39,7 +39,7 @@ Analysed 120 years of Olympic data to compare ASEAN nations' performance with to
 
 - **Languages**: Python, SQL, DAX, Power Query  
 - **Data Visualisation**: Power BI, Tableau  
-- **Other Tools**: Excel (Advanced), Git, SharePoint, FormSG  
+- **Other Tools**: Excel (Advanced), Git, SharePoint  
 
 ---
 
