@@ -29,7 +29,7 @@ Analysed anonymized card transaction data (2018–2020) to extract consumer insi
 ### 🏅 [Olympic Analysis – ASEAN vs Top Countries](https://github.com/Wzlim83/Olympic-Dashboard)  
 Analysed 120 years of Olympic data to compare ASEAN nations' performance with top-performing countries using Python and Power BI.
 
-- 📊 **Tools**: Python, Power BI, Kaggle dataset  
+- 📊 **Tools**: Python, Power BI  
 - 🔍 **Focus**: Medal distribution, athlete demographics, and event participation trends  
 - 📌 **Insights**: Identified ASEAN medal gaps, areas of underrepresentation, and potential areas for sports investment
 
