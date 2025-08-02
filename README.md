@@ -12,7 +12,7 @@
 Explored resale flat transactions in Singapore (2017–2020) to uncover pricing trends and influencing factors such as lease duration and location.
 
 - 📊 **Tools**: Python (Pandas, Matplotlib), Folium  
-- 🌍 **Focus**: Lease impact on price, floor area correlation, town-level comparison, and geospatial mapping  
+- 🔍 **Focus**: Lease impact on price, floor area correlation, town-level comparison, and geospatial mapping  
 - 📌 **Insights**: Price peaks around MOP (5 years); larger floor area yields higher resale value; Woodlands offers affordable options
 
 ---
