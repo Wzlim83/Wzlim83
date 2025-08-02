@@ -46,7 +46,7 @@ Analysed 120 years of Olympic data to compare ASEAN nations' performance with to
 ## 📫 Let’s connect!
 
 - 📧 Email: ronnielim@hotmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/ronnie-l-359b0227) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronnie-l-359b0227) 
 
 ⚡ **Fun fact**: Tea lover and foodie always exploring new flavors 😋
 
