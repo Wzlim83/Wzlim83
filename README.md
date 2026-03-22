@@ -35,7 +35,7 @@ Analysed 120 years of Olympic data to compare ASEAN nations' performance with to
 
 ---
 
-### 💼 [Credit Risk Portfolio Analysis]
+### 💼 [Credit Risk Portfolio Analysis](https://github.com/Wzlim83/Credit-Risk-Analysis)
 Performed end-to-end credit portfolio analysis of loans to identify high-risk borrowers and highlight exposure trends.
 - 📊 **Tools**: Python, Power BI  
 - 🔍 **Focus**: Data cleaning, Debt to Income (DTI) calculation, risk category assignment, portfolio summaries, and interactive dashboard visualisation.  
