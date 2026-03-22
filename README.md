@@ -2,11 +2,11 @@
 
 💼 **Finance & Analytics Professional** with 13+ years of experience in **credit risk**, **digital transformation**, and **data analytics** across the public and financial sectors.
 
-🌱 Currently upskilling in **Python**, **SQL**, **Tableau**, and **Power BI**. Passionate about using data to drive strategic decisions, streamline operations, and uncover actionable insights.
+🌱 Upskilling in **Python**, **SQL**, **Tableau**, and **Power BI**. Passionate about using data to drive strategic decisions, streamline operations, and uncover actionable insights.
 
 ---
 
-## 🚀 Capstone Projects
+## 🚀 Capstone Projects & Mini Projects
 
 ### 🏠 [HDB Resale Trend Analysis](https://github.com/Wzlim83/hdb-resale-trend-analysis)  
 Explored resale flat transactions in Singapore (2017–2020) to uncover pricing trends and influencing factors such as lease duration and location.
@@ -32,6 +32,14 @@ Analysed 120 years of Olympic data to compare ASEAN nations' performance with to
 - 📊 **Tools**: Python, Power BI  
 - 🔍 **Focus**: Medal distribution, athlete demographics, and event participation trends  
 - 📌 **Insights**: Identified ASEAN medal gaps, areas of underrepresentation, and potential areas for sports investment
+
+---
+
+### 💼 [Credit Risk Portfolio Analysis]
+Performed end-to-end credit portfolio analysis of loans to identify high-risk borrowers and highlight exposure trends.
+- 📊 **Tools**: Python, Power BI  
+- 🔍 **Focus**: Data cleaning, Debt to Income (DTI) calculation, risk category assignment, portfolio summaries, and interactive dashboard visualisation.  
+- 📌 **Insights**: High-risk borrowers concentrated where Debt-to-Income >0.5 and Credit Score <650; certain industries (e.g. Service) carru more high-risk exposure
 
 ---
 
