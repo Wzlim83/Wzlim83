@@ -39,7 +39,7 @@ Analysed 120 years of Olympic data to compare ASEAN nations' performance with to
 Performed end-to-end credit portfolio analysis of loans to identify high-risk borrowers and highlight exposure trends.
 - 📊 **Tools**: Python, Power BI  
 - 🔍 **Focus**: Data cleaning, Debt to Income (DTI) calculation, risk category assignment, portfolio summaries, and interactive dashboard visualisation.  
-- 📌 **Insights**: High-risk borrowers concentrated where Debt-to-Income >0.5 and Credit Score <650; certain industries (e.g. Service) carry more high-risk exposure
+- 📌 **Insights**: High-risk borrowers concentrated where Debt-to-Income >0.5 or Credit Score <650; certain industries (e.g. Service) carry more high-risk exposure
 
 ---
 
